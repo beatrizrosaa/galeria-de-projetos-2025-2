@@ -33,7 +33,7 @@ const portfolios = [
     title: "Portfólio em React (TS)",
     description: "",
     github: "https://github.com/beatrizrosaa/profile",
-    live: "https://profile-seven-gold.vercel.app/", // URL do site em produção. Se não funcionar, deixe vazio e adicione uma screenshot
+    live: "https://www.beatrizrosa.me/", // URL do site em produção. Se não funcionar, deixe vazio e adicione uma screenshot
     screenshot: "", // URL de imagem opcional; se vazio, será mostrado o iframe do site
     authorName: "Beatriz Rosa",
     authorPhoto: "", // URL de foto opcional. Utilize o do seu perfil do GitHub.
